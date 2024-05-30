@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajthanusan/My-Portfolio](https://github.com/rajthanusan/My-Portfolio)
+- 👨‍💻 All of my projects are available at [https://thanusan.netlify.app/](https://thanusan.netlify.app/)
 
 - 💬 Ask me about **Android , MERN**
 
