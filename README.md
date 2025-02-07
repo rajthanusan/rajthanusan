@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajthanusan&label=Profile%20views&color=0e75b6&style=flat" alt="rajthanusan" /> </p>
 
-- 🔭 I’m currently working on [Sport Facilities Booking App]
+- 🔭 I’m currently developing a React Native mobile app for Sport Facilities Booking.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Currently learning AI Chatbot Development.
 
 - 👨‍💻 All of my projects are available at [https://thanusan.netlify.app/](https://thanusan.netlify.app/)
 
