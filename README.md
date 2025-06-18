@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning AI Chatbot Development.
 
-- 👨‍💻 All of my projects are available at [https://thanusan.netlify.app/](https://thanusan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rajthanusan.netlify.app/](https://rajthanusan.netlify.app/)
 
 - 💬 Ask me about **Android , MERN**
 
