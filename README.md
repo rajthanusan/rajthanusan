@@ -8,7 +8,7 @@
 
 - 🌱 I am currently learning AI-based development and have also started working with Java and Spring Boot.
 
-- 👨‍💻 All of my projects are available at [https://rajthanusan.netlify.app/](https://rajthanusan.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://rajthanusan.netlify.app/](https://rajthanusan.netlify.app/)
 
 - 📱 Check out my published mobile app: [Kannithan](https://kannithan-7c4bf.web.app/)
 
