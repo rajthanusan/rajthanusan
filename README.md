@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently developing a React Native mobile app for Sport Facilities Booking.
 
-- 🌱 Currently learning AI Chatbot Development.
+- 🌱 I am currently learning AI-based development and have also started working with Java and Spring Boot.
 
 - 👨‍💻 All of my projects are available at [https://rajthanusan.netlify.app/](https://rajthanusan.netlify.app/)
 
