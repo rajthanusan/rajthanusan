@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://rajthanusan.netlify.app/](https://rajthanusan.netlify.app/)
 
+- 📱 Check out my published mobile app: [Kannithan](https://kannithan-7c4bf.web.app/)
+
 - 💬 Ask me about **Android , MERN**
 
 - 📫 How to reach me **rajthanusan08@gmail.com**
