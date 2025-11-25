@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Thanusan Rajendran</h1>
-<h3 align="center">Software Engineer | Mobile & Full-Stack Developer | Building Innovative Solutions from Sri Lanka 🇱🇰</h3>
+<h3 align="center">Software Engineer | Mobile & Full-Stack Developer | Building Innovative Solutions from Sri Lanka</h3>
 <p align="center">
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
