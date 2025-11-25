@@ -44,7 +44,6 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajthanusan&show_icons=true&locale=en&theme=tokyonight" alt="rajthanusan GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajthanusan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rajthanusan Top Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajthanusan&theme=tokyonight" alt="rajthanusan GitHub Streak" />
 </p>
