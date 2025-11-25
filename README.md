@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-- 💻 **Currently Building:** A **React Native mobile app** for Sport Facilities Booking. *(More specific and dynamic wording)*
-- 💡 **Expanding Expertise:** Diving into **AI-based development**, **Java**, and **Spring Boot**. *(Highlights ambition and new skills)*
-- 🛠️ **Core Expertise:** Ask me about **Android** development, the **MERN** stack (MongoDB, Express, React, Node), and **Mobile Development**! *(Emphasizing key strengths)*
-- 📱 **Published Work:** Check out my live mobile app: **[Kannithan](https://kannithan-7c4bf.web.app/)** *(Stronger call to action)*
+- 💻 **Currently Building:** A **React Native mobile app** for Sport Facilities Booking. 
+- 💡 **Expanding Expertise:** Diving into **AI-based development**, **Java**, and **Spring Boot**. 
+- 🛠️ **Core Expertise:** Ask me about **Android** development, the **MERN** stack (MongoDB, Express, React, Node), and **Mobile Development**!
+- 📱 **Published Work:** Check out my live mobile app: **[Kannithan](https://kannithan-7c4bf.web.app/)** 
 - 🌐 **My Portfolio:** See more of my projects here: **[rajthanusan.netlify.app](https://rajthanusan.netlify.app/)**
 - 📧 **Get in Touch:** You can reach me directly at **rajthanusan08@gmail.com**
 
