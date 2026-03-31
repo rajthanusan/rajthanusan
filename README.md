@@ -18,7 +18,7 @@
 - 💡 **Expanding Expertise:** Diving into **GraphQL**, **Python/Flask**, **AWS**, and **AI-based development**
 - 🛠️ **Core Expertise:** Ask me about **React**, **React Native**, **MERN Stack**, **C# .NET**, and **Mobile Development**!
 - 📱 **Published Work:** Check out my live app: **[Kannithan Math Quiz](https://kannithan-7c4bf.web.app/)**
-- 🌐 **Portfolio:** **[rajthanusan.netlify.app](https://rajthanusan.netlify.app/)**
+- 🌐 **Portfolio:** **[rajthanusan.portfolio.app](https://myportfolio-sigma-gold.vercel.app/)**
 - 📧 **Get in Touch:** **rajthanusan08@gmail.com**
 
 ---
